@@ -1,0 +1,10 @@
+D:\MyDocs\Projects\cs\ServerPing\bin\Debug\ServerPing.exe.config
+D:\MyDocs\Projects\cs\ServerPing\bin\Debug\ServerPing.exe
+D:\MyDocs\Projects\cs\ServerPing\bin\Debug\ServerPing.pdb
+D:\MyDocs\Projects\cs\ServerPing\obj\Debug\ServerPing.frmMain.resources
+D:\MyDocs\Projects\cs\ServerPing\obj\Debug\ServerPing.Properties.Resources.resources
+D:\MyDocs\Projects\cs\ServerPing\obj\Debug\ServerPing.csproj.GenerateResource.Cache
+D:\MyDocs\Projects\cs\ServerPing\obj\Debug\ServerPing.exe
+D:\MyDocs\Projects\cs\ServerPing\obj\Debug\ServerPing.pdb
+D:\MyDocs\Projects\cs\ServerPing\obj\Debug\ServerPing.csprojResolveAssemblyReference.cache
+D:\MyDocs\Projects\cs\ServerPing\bin\Debug\Settings.xml

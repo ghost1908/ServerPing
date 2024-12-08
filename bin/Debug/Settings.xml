@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <Default Name="default" IPAddress="127.0.0.1" PingCount="5" PingTimeout="4000" TimerTimeout="30000" />
+  <Servers>
+    <Server Name="WOT RU1" IPAddress="login.p1.worldoftanks.net" PingCount="5" PingTimeout="4000" TimerTimeout="30000" />
+    <Server Name="WOT RU2" IPAddress="login.p2.worldoftanks.net" PingCount="5" PingTimeout="4000" TimerTimeout="30000" />
+    <Server Name="WOT RU3" IPAddress="login.p3.worldoftanks.net" PingCount="5" PingTimeout="4000" TimerTimeout="30000" />
+    <Server Name="WOT RU4" IPAddress="login.p4.worldoftanks.net" PingCount="5" PingTimeout="4000" TimerTimeout="30000" />
+    <Server Name="WOT RU5" IPAddress="login.p5.worldoftanks.net" PingCount="5" PingTimeout="4000" TimerTimeout="30000" />
+    <Server Name="WOT RU6" IPAddress="login.p6.worldoftanks.net" PingCount="5" PingTimeout="4000" TimerTimeout="30000" />
+    <Server Name="WOT RU7" IPAddress="login.p7.worldoftanks.net" PingCount="5" PingTimeout="4000" TimerTimeout="30000" />
+    <Server Name="WOT RU8" IPAddress="login.p8.worldoftanks.net" PingCount="5" PingTimeout="4000" TimerTimeout="30000" />
+    <Server Name="WOT RU9" IPAddress="login.p9.worldoftanks.net" PingCount="5" PingTimeout="4000" TimerTimeout="30000" />
+  </Servers>
+</Settings>
